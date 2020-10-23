@@ -1,5 +1,6 @@
 ### Hi there  I'm Lianghuan👋
--------------✨ I’m a developer from Xi'an(China)  
+<p align="center">
+             ✨ I’m a developer from Xi'an(China)  
              🌱 I’m currently learning Java, Scala  
              🔭 I’m currently working on Netty & IM Applications  
              ⚡ Fun fact: I love Physics🚀,Music💽，Running🏃  
@@ -9,7 +10,7 @@
              🌟 Github is amazing, I hope to create more useful things here  
              🐱‍Yes, that's right. It's me！  
 
-
+</p>
 
 <p align="center">
   <a href="https://github.com/18391713434">

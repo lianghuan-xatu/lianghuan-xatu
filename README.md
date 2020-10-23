@@ -1,9 +1,8 @@
 ### Hi there  I'm Lianghuan👋
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✨ I’m a developer from Xi'an(China)  
-         &nbsp;&nbsp;&nbsp;    🌱 I’m currently learning Java, Scala  
+✨ I’m a developer from Xi'an(China)  
+             🌱 I’m currently learning Java, Scala  
              🔭 I’m currently working on Netty & IM Applications  
-        &nbsp;&nbsp;&nbsp;&nbsp;     ⚡ Fun fact: I love Physics🚀,Music💽，Running🏃  
+             ⚡ Fun fact: I love Physics🚀,Music💽，Running🏃  
              📫 How to reach me: Coderlianghuan@gmail.com  
              💬 Ask me about JavaEE,Spring,Mybatis,Flume,Hbase,Hadoop,Spark  
              👨 For the past five years, I have been using Java for development  

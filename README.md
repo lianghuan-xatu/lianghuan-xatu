@@ -19,8 +19,8 @@
       <img src="https://img.shields.io/badge/-EasyChat-green.svg" </a>
       <a href="https://github.com/18391713434/Gmall">
         <img src="https://img.shields.io/badge/-Gmall-brightgreen.svg" </a>
-        <a href="https://18391713434.github.io/OnlinEDU/">
-          <img src="https://img.shields.io/badge/-OnlinEDU-success.svg" /></a>
+        <a href="https://18391713434.github.io/OnlineEDU/">
+          <img src="https://img.shields.io/badge/-OnlineEDU-success.svg" /></a>
         <a href="https://github.com/18391713434">
           <img src="https://komarev.com/ghpvc/?username=18391713434&color=ff69b4&label=Views" /></a>
   </p>

@@ -1,14 +1,14 @@
 ### Hi there  I'm Lianghuan👋
 <p align="center">
-             ✨ I’m a developer from Xi'an(China)  
-             🌱 I’m currently learning Java, Scala  
-             🔭 I’m currently working on Netty & IM Applications  
-             ⚡ Fun fact: I love Physics🚀,Music💽，Running🏃  
-             📫 How to reach me: Coderlianghuan@gmail.com  
-             💬 Ask me about JavaEE,Spring,Mybatis,Flume,Hbase,Hadoop,Spark  
-             👨 For the past five years, I have been using Java for development  
-             🌟 Github is amazing, I hope to create more useful things here  
-             🐱‍Yes, that's right. It's me！  
+             ✨ I’m a developer from Xi'an(China)  </br>
+             🌱 I’m currently learning Java, Scala  </br>
+             🔭 I’m currently working on Netty & IM Applications  </br>
+             ⚡ Fun fact: I love Physics🚀,Music💽，Running🏃  </br>
+             📫 How to reach me: Coderlianghuan@gmail.com  </br>
+             💬 Ask me about JavaEE,Spring,Mybatis,Flume,Hbase,Hadoop,Spark  </br>
+             👨 For the past five years, I have been using Java for development  </br>
+             🌟 Github is amazing, I hope to create more useful things here  </br>
+             🐱‍Yes, that's right. It's me！  </br>
 
 </p>
 

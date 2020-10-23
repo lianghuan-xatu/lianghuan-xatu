@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <p align="center">
+
     <a href="https://github.com/18391713434/EasyChat">
       <img src="https://img.shields.io/badge/-EasyChat-green.svg" </a>
       <a href="https://github.com/18391713434/Gmall">
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/-OnlineEDU-success.svg" /></a>
         <a href="https://github.com/18391713434">
           <img src="https://komarev.com/ghpvc/?username=18391713434&color=ff69b4&label=Views" /></a>
-  </p>
+  
 </p>

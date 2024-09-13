@@ -12,7 +12,7 @@
 
 Interested in: Distributed, Data Synchronization, Data Governance, Stream Processing 
 
-Ask me about Hadoop, Kafka, Spark, Flink, OLAP
+Ask me about Hadoop, Kafka, Spark, Flink, OLAP, :wolf:, :pig:, :monkey:, :baby_chick:, :whale2:, :snake:, :ram:, :rat:, :rabbit2:, :boar:, :dog2:, :crocodile:
 
 How to reach me:)
 

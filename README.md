@@ -2,7 +2,7 @@
     
 ## Hi there  I'm Lianghuan👋 
 
-### Graduation Fall 2024
+### Graduation Fall 2025
 
 - @OSPP Summer of Code (OSPP) 2023  Excellent Student (Top 4%) , Apache Software Foundation（ASF)
 

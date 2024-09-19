@@ -6,8 +6,6 @@
 
 - @OSPP Summer of Code (OSPP) 2023  Excellent Student (Top 4%) , Apache Software Foundation（ASF)
 
-- @Tencent Student Of Tencent Rhino-Bird Open Source Talent Training Program （Apache Inlong）
-
 - @DIDI Data Development Intern in the DT (Data Technology Department) at DiDi Global Inc
 
 Interested in: Distributed, Data Synchronization, Data Governance, Stream Processing 

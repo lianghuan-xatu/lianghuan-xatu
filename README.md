@@ -4,10 +4,6 @@
 
 ### Graduation Fall 2025
 
-- @OSPP Summer of Code (OSPP) 2023  Excellent Student (Top 4%) , Apache Software Foundation（ASF)
-
-- @DIDI Data Development Intern in the DT (Data Technology Department) at DiDi Global Inc
-
 Interested in: Distributed, Data Synchronization, Data Governance, Stream Processing 
 
 Ask me about Hadoop, Kafka, Spark, Flink, OLAP, :wolf:, :pig:, :monkey:, :baby_chick:, :whale2:, :snake:, :ram:, :rat:, :rabbit2:, :boar:, :dog2:, :crocodile:
